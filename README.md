@@ -10,7 +10,7 @@ I am currently a second-year student at CentraleSupélec where I learn step by s
 
 ###  📫 How to reach me
 
-I am always open to talk. You can reach me on [LinkedIn](https://www.linkedin.com/in/julien-rosenberger-468738225/), or at this email : julien.rosenberger@student-cs.fr
+I am always open to talk. You can reach me on [LinkedIn](https://www.linkedin.com/in/julien-rosenberger-468738225/), or at this email address: julien.rosenberger@student-cs.fr
 
 
 
