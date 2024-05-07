@@ -2,7 +2,7 @@
 
 ### 🧐 About me
 
-Hello ! I'm Julien ! 
+Hello! I'm Julien! 
 
 I aim to enhance human relationships making cooperation emerge instead of conflicts. To better understand this collective intelligence, or more globally intelligence, I dived into artificial intelligence, deep learning, reinforcement learning, psycho sociology and philosophy. And the more I learn, the more I am fascinated 😄!
 
